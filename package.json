@@ -1,0 +1,21 @@
+{
+  "name": "webpack-clean-dist-plugin",
+  "version": "0.1.0",
+  "description": "A simple plugin to clean webpack dist dir.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "clean",
+    "dist",
+    "plugin"
+  ],
+  "author": "Eric Lee",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lceric/wepack-clean-dist-plugin.git"
+  }
+}
